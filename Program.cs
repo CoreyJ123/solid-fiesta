@@ -6,9 +6,6 @@ namespace StudioTest
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            Console.WriteLine("Hey!");
-=======
             Console.WriteLine("Hello, World!");
 
 
@@ -23,7 +20,7 @@ namespace StudioTest
             Console.WriteLine("Wow thats pretty cool");
 
             Console.WriteLine("And Github!");
->>>>>>> 77f37776af154e6daccd79f92d491a768e54a14f
+            Console.WriteLine("why GitHub :( why merge conflict");
         }
     }
 }
